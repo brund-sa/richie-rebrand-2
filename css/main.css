@@ -4598,7 +4598,8 @@ body.elementor-editor-active [data-arts-os-animation] {
     overflow: hidden;
 }
 .section-masthead__background_halfscreen-gutters {
-    padding: calc(var(--gutter-horizontal) + 40px) var(--gutter-horizontal) var(--gutter-horizontal);
+    /* padding: calc(var(--gutter-horizontal) + 40px) var(--gutter-horizontal) var(--gutter-horizontal); */
+    padding: 15px;
 }
 .section-masthead__text {
     display: inline-block;
